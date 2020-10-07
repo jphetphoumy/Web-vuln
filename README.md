@@ -11,6 +11,7 @@ git clone git@github.com:jphetphoumy/Web-vuln.git
 Run the docker environment
 
 ```
+cd web1
 docker-compose up -d
 ```
 
